@@ -5,3 +5,6 @@ Pavan Adari
 Mathematics and Computing
 
 I like Pizza and Icecream
+Why opensource?
+Proprietary software suck
+Linux Torvald is god
