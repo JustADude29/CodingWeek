@@ -5,4 +5,3 @@ Pavan Adari
 Mathematics and Computing
 
 I like Pizza and Icecream
-
